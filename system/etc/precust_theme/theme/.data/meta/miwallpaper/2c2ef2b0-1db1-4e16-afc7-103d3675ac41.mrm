@@ -1,0 +1,48 @@
+{
+  "localId": "2c2ef2b0-1db1-4e16-afc7-103d3675ac41",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "377486d18f1c2f110c9c5bde18485a3ca43adf50",
+  "platform": 6,
+  "size": 10934020,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "MIUI"
+  },
+  "designers": {
+    "fallback": "MIUI"
+  },
+  "titles": {
+    "fallback": "黑晶"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_miwallpaper_0.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_miwallpaper_0.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "63d4a206-1672-4aaf-876f-6ef1a883b0e0",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null
+}
