@@ -1,0 +1,17 @@
+#turn on/off structure light
+
+service turn_on_structure_light /vendor/bin/turn_on_structure_light.sh
+   user root
+   disabled
+   oneshot
+
+on property:camera.sllight.status=on
+    start turn_on_structure_light
+
+service turn_off_structure_light /vendor/bin/turn_off_structure_light.sh
+   user root
+   disabled
+   oneshot
+
+on property:camera.sllight.status=off
+    start turn_off_structure_light
